@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @Reza-Anahid
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+There are 5 OSPF network types:
 
-<!---
-Reza-Anahid/Reza-Anahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    Non-Broadcast.
+    Broadcast.
+    Point-to-Multipoint.
+    Point-to-Multipoint Non-Broadcast.
+    Point-to-Point.
+    
+LSA types:
+
+    Type 1 - Represents a router
+    Type 2 - Represents the pseudonode (designated router) for a multiaccess link
+    Type 3 - A network link summary (internal route)
+    Type 4 - Represents an ASBR
+    Type 5 - A route external to the OSPF domain
+    Type 7 - Used in stub areas in place of a type 5 LS
+    
+Stub Area:
+    
+    Backbone area (area 0)
+    Standard area
+    Stub area
+    Totally stubby area
+    Not-so-stubby area (NSSA)
+
+    
+  
+    
+    https://packetlife.net/media/blog/attachments/39/ospf_standard_area.jpg
+    https://packetlife.net/blog/2008/jun/24/ospf-area-types/
+    
+    
