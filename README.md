@@ -22,10 +22,18 @@ Stub Area:
     Stub area
     Totally stubby area
     Not-so-stubby area (NSSA)
+    
+    
+OSPF routers:
 
-    
-  
-    
+    Internal Router
+    Backbone Router
+    Area Border Router (ABR)
+    Autonomous System Boundary Router (ASBR)
+
+   
+Links:
+
     https://packetlife.net/media/blog/attachments/39/ospf_standard_area.jpg
     https://packetlife.net/blog/2008/jun/24/ospf-area-types/
     
