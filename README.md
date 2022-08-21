@@ -39,7 +39,7 @@ Links:
     
     
     
-    Building the Adjacency
+ Building the Adjacency
 
 The adjacency building process takes effect after multiple stages have been fulfilled. Routers that become adjacent will have the exact link-state database. The following is a brief summary of the states an interface passes through before becoming adjacent to another router:
 
