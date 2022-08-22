@@ -44,7 +44,9 @@ OSPF
 
    
 Links:
-    
+
+
+    https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/configuration/xe-16/iro-xe-16-book/iro-cfg.html
     
     https://support.huawei.com/enterprise/en/doc/EDOC1100055040/274e3343/basic-concepts-of-ospf
 
