@@ -31,14 +31,28 @@ OSPF routers:
     Area Border Router (ABR)
     Autonomous System Boundary Router (ASBR)
 
+OSPF
+    
+    IP Subnetting
+    Authentication
+    Fast Converges
+    Partial Update
+    Summarization
+    Multicast
+    IP Protocol 89
+    Administrative Distance 110
+
    
 Links:
+    
+    
+    https://support.huawei.com/enterprise/en/doc/EDOC1100055040/274e3343/basic-concepts-of-ospf
 
     https://packetlife.net/media/blog/attachments/39/ospf_standard_area.jpg
     
     https://packetlife.net/blog/2008/jun/24/ospf-area-types/
     
-    https://cisco.tosinso.com/fa/articles/30774/OSPF-%DA%86%DB%8C%D8%B3%D8%AA-%D9%88-%DA%86%DA%AF%D9%88%D9%86%D9%87-%D9%BE%DB%8C%D8%A7%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF%D8%9F
+    https://cisco.tosinso.com/fa/articles/30774/OSPF
     
     
     
